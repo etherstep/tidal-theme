@@ -510,7 +510,7 @@ div[data-test="query-suggestions"] div[class*="_icon_"] {
 /* =========================================================
    FOOTER PLAYER
    ========================================================= */
-
+/*
 [data-test="footer-player"] {
     position: fixed;
     left: 50%;
@@ -659,7 +659,7 @@ input[class*="_nativeRange"]::-webkit-slider-thumb {
     transform: translateY(1px);
     background-color: var(--accent);
 }
-
+*/
 /* =========================================================
    NOW PLAYING
    ========================================================= */
