@@ -628,6 +628,15 @@ button[aria-label="Play queue"] {
     border-radius: var(--market-core-radius-100);
 }
 
+[data-test*="media-state"] {
+    color: rgb(255, 0, 0) !important;
+}
+
+[data-test*="media-state"] svg {
+    fill: rgb(255, 0, 0) !important;
+    color: rgb(255, 0, 0) !important;
+}
+
 [class*='_knob_'] {
     width: 10px;
     height: 10px;
