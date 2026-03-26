@@ -546,7 +546,7 @@ div[data-test="query-suggestions"] div[class*="_icon_"] {
     position: fixed;
     top: -75px;
     width: 98vw;
-    height: 100px;
+    height: 10px;
 }
 
 [class*="_range_"] {
