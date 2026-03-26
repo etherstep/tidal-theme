@@ -544,10 +544,10 @@ div[data-test="query-suggestions"] div[class*="_icon_"] {
 
 [aria-label="Progress bar"] {
     position: fixed;
-    bottom: 102px; /* Place directly above the footer */
+    bottom: -75px; /* Place directly above the footer */
     width: 98vw;
     height: 10px;
-    transform: none; /* Avoid unnecessary transformations */
+    /* transform: none; /* Avoid unnecessary transformations */ */
 }
 
 [class*="_range_"] {
